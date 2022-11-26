@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+/*body{
+	padding: 70px;
+}*/
+
+.main_div{
+
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img{
+	width: 300px;	
+}
+
+h3{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+
+}
+
+h5{
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+
+
+
+
+
+.nav-link{
+	color: white!important;
+
+}
+
+.sear{
+	background: white  !important;
+}
+
+.sear:hover{
+	color: black;
+}
+
+
+.nom{
+	font-size: 25px;
+	margin-left: 270px;
+}
+
+
+
+
+p{
+	text-align: center;
+	font-size: 20px;
+}
+
+.header{
+	width: 100%;
+	background: blue;
+	height: 50px;
+}
+
+
+
+
+	
